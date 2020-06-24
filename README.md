@@ -9,22 +9,22 @@ Here we have 4 columns namely:
 3. Yaw
 4. Acceleration
 
-### According to calculus we know that
+## According to calculus we know that
 
-## Integrals:
+### Integrals:
 
 v(speed) = a * dt (a -> acceleration)
 
 s(displacement) = v * dt (v -> velocity/speed)
 
 
-## Derivatives:
+### Derivatives:
 
 a(acceleration) = dv/dt (dv -> change in velocity/speed)
 
 v(speed) = ds/dt (ds -> change in distance/displacement)
 
-We will use these operations for calculating the required quantities.
+#### We will use these operations for calculating the required quantities.
 
 Start looking at the project from Reconstructing Trajectories ipython notebook.
 Clone the repo and run the ipython notebooks to get a better understanding.
